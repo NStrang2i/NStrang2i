@@ -8,7 +8,7 @@ New to the field of testing with a desire to learn new languages, frameworks and
 
 * 🌍  I'm based in Glasgow
 * ✉️  You can contact me at [nathan.strang@2itesting.com](mailto:nathan.strang@2itesting.com)
-* 🧠  I'm learning Java, C# and JavaScript
+* 🧠  I'm learning Java, C#, JavaScript, Cypress and Selenium
 * 🤝  I'm open to collaborating on any basic or entry level projects to develop my programming skills
 * ⚡  I have an interest in Game Development, 3D Modelling and Environmental Design
 
