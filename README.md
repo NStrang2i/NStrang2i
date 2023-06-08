@@ -1,7 +1,7 @@
 Hi 👋 My name is Nathan Strang
 ==============================
 
-Junior Test Engineer
+Test Engineer
 --------------------
 
 New to the field of testing with a desire to learn new languages, frameworks and skills.
